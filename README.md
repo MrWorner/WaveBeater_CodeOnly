@@ -1,2 +1,3 @@
-# WaveBeater_CodeOnly
+# WaveBeater
+Ознакомительная версия
 
